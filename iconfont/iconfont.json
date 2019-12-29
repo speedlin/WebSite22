@@ -1,0 +1,30 @@
+{
+  "id": "1588112",
+  "name": "青瓜传媒",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "511838",
+      "name": "眼",
+      "font_class": "yan",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "1546590",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "3685433",
+      "name": "下箭头",
+      "font_class": "up",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
