@@ -628,14 +628,7 @@ header section button {
     width: 100%;
   }
   .main_outside .main_content_top .main_left .main_left_section1 .banner_min {
-    margin-top: 20px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-  }
-  .main_outside .main_content_top .main_left .main_left_section1 .banner_min img {
-    width: 32%;
-    margin-bottom: 0;
+    display: none;
   }
   .main_outside .main_content_top .main_left .main_left_section2 article {
     justify-content: space-between;
